@@ -32,16 +32,16 @@ I believe data is not just numbers — it’s a tool to make better decisions.
 
 ---
 
-📊 Core Skills
+## 📊 Core Skills
 
-📈 Data Analysis  — Cleaning, transformation, and insight generation
-📊 Dashboard Development  — Power BI dashboards with business KPIs
-🧮 SQL & Data Querying  — Joins, aggregations, filtering large datasets
-🔍 Exploratory Data Analysis (EDA)  — Pattern detection and trend analysis
-📦 Data Preprocessing  — Handling missing values, outliers, feature prep
-🤖 Machine Learning  — Regression, basic classification models
-📉 Business Insights  — Converting data into actionable decisions
----
+* Data analysis — cleaning, transformation, and insight generation
+* Dashboard development — building Power BI dashboards with business KPIs
+* SQL & data querying — joins, aggregations, and filtering datasets
+* Exploratory data analysis (EDA) — identifying patterns and trends
+* Data preprocessing — handling missing values, outliers, and feature preparation
+* Machine learning — regression and basic classification models
+* Business insights — turning data into actionable decisions
+
 
 ## 🚀 Projects
 
