@@ -73,5 +73,5 @@ A pipeline that detects and flags fraudulent activity in real time using data pr
 
 ---
 
-⭐ **Always open to learning, collaborating, and solving data problems.**
+⭐ ***Always open to learning, collaborating, and solving data problems.***
 
